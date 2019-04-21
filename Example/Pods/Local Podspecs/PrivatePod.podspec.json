@@ -1,0 +1,22 @@
+{
+  "name": "PrivatePod",
+  "version": "0.1.0",
+  "summary": "first PrivatePod.",
+  "description": "first PrivatePod description.",
+  "homepage": "https://github.com/TouchFriend/PrivatePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1604181058@qq.com": "cxz"
+  },
+  "source": {
+    "git": "https://github.com/TouchFriend/PrivatePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PrivatePod/Classes/**/*"
+}

@@ -1,6 +1,6 @@
 {
   "name": "PrivatePod",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "summary": "first PrivatePod.",
   "description": "first PrivatePod description.",
   "homepage": "https://github.com/TouchFriend/PrivatePod",
@@ -13,10 +13,11 @@
   },
   "source": {
     "git": "https://github.com/TouchFriend/PrivatePod.git",
-    "tag": "0.1.0"
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "PrivatePod/Classes/**/*"
+  "source_files": "PrivatePod/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h"
 }
